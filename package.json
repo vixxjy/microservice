@@ -1,0 +1,21 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "microservices for staff",
+  "main": "server.js",
+  "author": "smilez",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.17.2",
+    "express": "^3.2.6",
+    "mongodb": "^2.2.31",
+    "socket.io": "~0.9.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
