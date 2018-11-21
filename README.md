@@ -1,22 +1,25 @@
+This project was bootstrapped using Node.js and tested using postman...
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## microservice
+
+This is a CRUD Rest-ful api built for college staff, kindly drop suggestions and tips:
+
+### `Installation`
+
+- $ git clone the repo
+- $ cd into repo
+- $ npm i
+- $ npm start
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+## routes
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+Then navigate to: 
+- http://localhost:3000/staff
+- http://localhost:3000/staff/:id 
 
-## Running the server
+to view the demo.
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
 
-2) Alternatively you can launch the app from the Terminal:
+## Demo :sparkling_heart: :sparkling_heart: :sparkling_heart:
 
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
